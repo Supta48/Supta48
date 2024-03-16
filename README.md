@@ -2,6 +2,7 @@
 <div align="center">
 <img src="./images/github-banner.jpg" />
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/md-fazle-rabbi-supta-76925920b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
@@ -10,9 +11,9 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/suptarock/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=#962fbf&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#feda75&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
   </a>
-  <a href="mdfazlerabbisupta@gmail.com" target="_blank">
+  <a href="mailto:mdfazlerabbisupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 </div>
@@ -21,7 +22,7 @@
 
 # 👩‍💻About me
 
-I am front end Developer. My Development skilled in CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
+I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
 
 # 🎯 Overview
  * 🌱 I’m exploring - Front End Development
@@ -50,21 +51,21 @@ I am front end Developer. My Development skilled in CSS, HTML, CSS, Node.js, and
 
 # 🔥 My Github Activity Streak
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=amiadud&theme=merko&hide_border=true)" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Supta48&theme=merko&hide_border=true)" />
 
 # 📚 My Github Profile Stats 
 <div align="center">
 
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiadud&theme=dracula" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Supta48&theme=dracula" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amiadud&theme=dracula" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Supta48&theme=dracula" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiadud&theme=radical" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Supta48&theme=radical" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiadud&theme=dracula&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Supta48&theme=dracula&utcOffset=8" />
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiadud&theme=radical" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supta48&theme=radical" />
 </div>
 
 <div/>
