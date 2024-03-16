@@ -1,19 +1,18 @@
 
 <div align="center">
-<img src="./images/github-banner.png" />
+<img src="./images/github-banner.jpg" />
 </div>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-fazle-rabbi-supta-76925920b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/cse.wadud" target="_blank">
+  <a href="https://www.facebook.com/Rockvai007" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/8801737055870" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
+  <a href="https://www.instagram.com/suptarock/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=#962fbf&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
   </a>
-  <a href="mdabduladud8@gmail.com" target="_blank">
+  <a href="mdfazlerabbisupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 </div>
@@ -22,7 +21,7 @@
 
 # 👩‍💻About me
 
-I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
+I am front end Developer. My Development skilled in CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
 
 # 🎯 Overview
  * 🌱 I’m exploring - Front End Development
@@ -36,7 +35,7 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
+<a href="https://www.linkedin.com/in/md-fazle-rabbi-supta-76925920b/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
 
 </div>
 
